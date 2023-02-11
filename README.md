@@ -1,2 +1,2 @@
 # Major Stuff
- idk this is my first repo
+i created my first unity game in C#, im proud of myself.
